@@ -1,5 +1,6 @@
-function hello() {
-    console.log("HELLO WORLD")
+function hello(text) {
+
+    console.log(text)
 }
 
-hello()
+hello("hello pucchu")
